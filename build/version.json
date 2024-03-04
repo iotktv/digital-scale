@@ -1,0 +1,10 @@
+{
+    "firmware": [
+        {
+            "software": "v2.1.0",
+            "hardware": [
+                "v2.0"
+            ]
+        }
+    ]
+}
